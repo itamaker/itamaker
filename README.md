@@ -5,7 +5,7 @@
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
-![OpenClaw](https://img.shields.io/badge/-OpenClaw-7A3CF0?style=flat-square)
+![🦞OpenClaw](https://img.shields.io/badge/-🦞OpenClaw-7A3CF0?style=flat-square)
 ![IEEE Senior Member](https://img.shields.io/badge/-IEEE%20Senior%20Member-00629B?style=flat-square&logo=ieee&logoColor=white)
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
