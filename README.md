@@ -37,10 +37,13 @@
 
 ## Current Projects
 
+- ⚒️ [**skillforge**](https://github.com/itamaker/skillforge) - Scaffold OpenClaw-ready skill directories from compact JSON specs.
+- 🔎 [**runlens**](https://github.com/itamaker/runlens) - Summarize agent and tool JSONL traces for latency, failures, and token usage.
+- 📚 [**ragcheck**](https://github.com/itamaker/ragcheck) - Score retrieval runs with Precision@k, Recall@k, HitRate@k, and MRR@k.
+- 🃏 [**promptdeck**](https://github.com/itamaker/promptdeck) - Render prompt templates from JSON variables and experiment matrices.
+- 🧪 [**datasetlint**](https://github.com/itamaker/datasetlint) - Audit JSONL datasets for duplicates, empty fields, and train/eval leakage.
 - 🚀 [**go-chrome-ai**](https://github.com/itamaker/go-chrome-ai) - A cross-platform Chrome profile patcher written in Go, with both CLI and GUI modes.
-- 🍺 [**homebrew-tap**](https://github.com/itamaker/homebrew-tap) - A Homebrew tap for casks maintained and shipped under the `itamaker` namespace.
-- 🧠 [**delta**](https://github.com/Delta-ML/delta) - A deep learning based end-to-end natural language and speech processing platform.
-- 💬 [**dstc9**](https://github.com/itamaker/dstc9) - DSTC9 dialog-system challenge code, experiments, and related research work.
+- 🍺 [**homebrew-tap**](https://github.com/itamaker/homebrew-tap) - The shared Homebrew tap for installing the CLI tools under the `itamaker` namespace.
 
 ## GitHub Activity
 
