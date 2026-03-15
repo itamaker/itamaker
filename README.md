@@ -37,7 +37,7 @@
 
 ## Current Projects
 
-- 🧰 [**workspace**](https://github.com/itamaker/workspace) - A Makefile-driven workspace for syncing and managing the `itamaker` project repos.
+- 💻 [**workspace**](https://github.com/itamaker/workspace) - A Makefile-driven workspace for syncing and managing the `itamaker` project repos.
 - 🚀 [**go-chrome-ai**](https://github.com/itamaker/go-chrome-ai) - A cross-platform Chrome profile patcher written in Go, with both CLI and GUI modes.
 - 🍺 [**homebrew-tap**](https://github.com/itamaker/homebrew-tap) - A Homebrew tap for casks maintained and shipped under the `itamaker` namespace.
 - 🧠 [**delta**](https://github.com/Delta-ML/delta) - A deep learning based end-to-end natural language and speech processing platform.
