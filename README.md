@@ -42,12 +42,11 @@
 - ⚙️ [**dotfiles**](https://github.com/itamaker/dotfiles) - A chezmoi-managed personal dotfiles repo for Neovim, Starship, and reproducible local setup.
 - 🧠 [**delta**](https://github.com/Delta-ML/delta) - A deep learning based end-to-end natural language and speech processing platform.
 - 💬 [**dstc9**](https://github.com/itamaker/dstc9) - DSTC9 dialog-system challenge code, experiments, and related research work.
-- ⚒️ [**skillforge**](https://github.com/itamaker/skillforge) - Scaffold OpenClaw-ready skill directories from compact JSON specs.
-- 🔎 [**runlens**](https://github.com/itamaker/runlens) - Summarize agent and tool JSONL traces for latency, failures, and token usage.
-- 📚 [**ragcheck**](https://github.com/itamaker/ragcheck) - Score retrieval runs with Precision@k, Recall@k, HitRate@k, and MRR@k.
-- 🃏 [**promptdeck**](https://github.com/itamaker/promptdeck) - Render prompt templates from JSON variables and experiment matrices.
-- 🧪 [**datasetlint**](https://github.com/itamaker/datasetlint) - Audit JSONL datasets for duplicates, empty fields, and train/eval leakage.
-
+- ⚒️ [**skillforge**](https://github.com/itamaker/skillforge) - Draft and scaffold OpenClaw-ready skills from briefs, tool catalogs, and JSON specs.
+- 🔎 [**runlens**](https://github.com/itamaker/runlens) - Analyze agent and tool JSONL traces for failures, flaky paths, latency outliers, and token usage.
+- 📚 [**ragcheck**](https://github.com/itamaker/ragcheck) - Evaluate retrieval and RAG runs with Precision@k, Recall@k, MAP, nDCG, and offline answer judges.
+- 🃏 [**promptdeck**](https://github.com/itamaker/promptdeck) - Render, batch, and optimize prompt templates from JSON variables, experiment matrices, and score files.
+- 🧪 [**datasetlint**](https://github.com/itamaker/datasetlint) - Audit JSONL datasets for duplicates, semantic leakage, label conflicts, and other train/eval quality issues.
 
 ## GitHub Activity
 
