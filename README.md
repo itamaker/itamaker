@@ -39,6 +39,7 @@
 
 - 🚀 [**go-chrome-ai**](https://github.com/itamaker/go-chrome-ai) - A cross-platform Chrome profile patcher written in Go, with both CLI and GUI modes.
 - 🍺 [**homebrew-tap**](https://github.com/itamaker/homebrew-tap) - A Homebrew tap for casks maintained and shipped under the `itamaker` namespace.
+- ⚙️ [**dotfiles**](https://github.com/itamaker/dotfiles) - A chezmoi-managed personal dotfiles repo for Neovim, Starship, and reproducible local setup.
 - 🧠 [**delta**](https://github.com/Delta-ML/delta) - A deep learning based end-to-end natural language and speech processing platform.
 - 💬 [**dstc9**](https://github.com/itamaker/dstc9) - DSTC9 dialog-system challenge code, experiments, and related research work.
 - ⚒️ [**skillforge**](https://github.com/itamaker/skillforge) - Scaffold OpenClaw-ready skill directories from compact JSON specs.
