@@ -37,9 +37,9 @@
 
 ## Current Projects
 
+- 🧰 [**workspace**](https://github.com/itamaker/workspace) - A Makefile-driven workspace for syncing and managing the `itamaker` project repos.
 - 🚀 [**go-chrome-ai**](https://github.com/itamaker/go-chrome-ai) - A cross-platform Chrome profile patcher written in Go, with both CLI and GUI modes.
 - 🍺 [**homebrew-tap**](https://github.com/itamaker/homebrew-tap) - A Homebrew tap for casks maintained and shipped under the `itamaker` namespace.
-- ⚙️ [**dotfiles**](https://github.com/itamaker/dotfiles) - A chezmoi-managed personal dotfiles repo for Neovim, Starship, and reproducible local setup.
 - 🧠 [**delta**](https://github.com/Delta-ML/delta) - A deep learning based end-to-end natural language and speech processing platform.
 - 💬 [**dstc9**](https://github.com/itamaker/dstc9) - DSTC9 dialog-system challenge code, experiments, and related research work.
 - ⚒️ [**skillforge**](https://github.com/itamaker/skillforge) - Draft and scaffold OpenClaw-ready skills from briefs, tool catalogs, and JSON specs.
@@ -47,6 +47,7 @@
 - 📚 [**ragcheck**](https://github.com/itamaker/ragcheck) - Evaluate retrieval and RAG runs with Precision@k, Recall@k, MAP, nDCG, and offline answer judges.
 - 🃏 [**promptdeck**](https://github.com/itamaker/promptdeck) - Render, batch, and optimize prompt templates from JSON variables, experiment matrices, and score files.
 - 🧪 [**datasetlint**](https://github.com/itamaker/datasetlint) - Audit JSONL datasets for duplicates, semantic leakage, label conflicts, and other train/eval quality issues.
+- ⚙️ [**dotfiles**](https://github.com/itamaker/dotfiles) - A chezmoi-managed personal dotfiles repo for Neovim, Starship, and reproducible local setup.
 
 ## GitHub Activity
 
