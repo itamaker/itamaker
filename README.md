@@ -35,6 +35,7 @@
 - Building practical AI systems and developer tools.
 - Exploring better workflows across Golang, Python, and LLM applications.
 - Shipping infrastructure-friendly products with Docker and Kubernetes.
+- Turning day-to-day automation patterns into installable agent skills.
 
 ## Current Projects
 
