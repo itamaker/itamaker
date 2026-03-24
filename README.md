@@ -38,7 +38,7 @@
 
 ## Current Projects
 
-- 🧩 [**skills**](https://github.com/itamaker/skills) - A personal library of reusable agent skills I use for day-to-day development and workflow automation.
+- 🧩 [**skills**](https://github.com/itamaker/skills) - An index for my standalone agent skills.
 - 🗂️ [**go-workspace-skills**](https://github.com/itamaker/go-workspace-skills) - A standalone skill for configurable Go workspaces.
 - ✨ [**stitch-skills**](https://github.com/itamaker/stitch-skills) - A standalone skill for Google Stitch workflows.
 - 💻 [**workspace**](https://github.com/itamaker/workspace) - A Makefile-driven workspace for syncing and managing the my project repos.
