@@ -39,8 +39,8 @@
 ## Current Projects
 
 - 🧩 [**skills**](https://github.com/itamaker/skills) - A personal library of reusable agent skills I use for day-to-day development and workflow automation.
-- 🗂️ [**go-workspace-skills**](https://github.com/itamaker/go-workspace-skills) - A standalone agent skill for syncing, building, testing, and cleaning configurable multi-repo Go workspaces.
-- ✨ [**stitch-skills**](https://github.com/itamaker/stitch-skills) - A standalone agent skill for Google Stitch workflows, SDK-backed generation, and config-driven execution.
+- 🗂️ [**go-workspace-skills**](https://github.com/itamaker/go-workspace-skills) - A standalone skill for configurable Go workspaces.
+- ✨ [**stitch-skills**](https://github.com/itamaker/stitch-skills) - A standalone skill for Google Stitch workflows.
 - 💻 [**workspace**](https://github.com/itamaker/workspace) - A Makefile-driven workspace for syncing and managing the my project repos.
 - 🚀 [**go-chrome-ai**](https://github.com/itamaker/go-chrome-ai) - A cross-platform Chrome profile patcher written in Go, with both CLI and GUI modes.
 - 🍺 [**homebrew-tap**](https://github.com/itamaker/homebrew-tap) - A Homebrew tap for casks maintained and shipped under the my namespace.
