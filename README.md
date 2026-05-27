@@ -39,6 +39,7 @@
 
 ## Current Projects
 
+- 🔐 [**gauth2apple**](https://github.com/itamaker/gauth2apple) - Split a Google Authenticator export QR into individual otpauth:// QR codes for Apple Passwords.
 - 🧩 [**skills**](https://github.com/itamaker/skills) - An index for my standalone agent skills.
 - 🗂️ [**go-workspace-skills**](https://github.com/itamaker/go-workspace-skills) - A standalone skill for configurable Go workspaces.
 - ✨ [**stitch-skills**](https://github.com/itamaker/stitch-skills) - A standalone skill for Google Stitch workflows.
