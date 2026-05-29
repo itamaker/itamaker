@@ -39,7 +39,7 @@
 
 ## Current Projects
 
-- 🐱 [**kitten-tts-go**](https://github.com/itamaker/kitten-tts-go) - Go implementation of KittenTTS, a lightweight ONNX text-to-speech engine with self-contained, Python-free binaries.
+- 🐱 [**kitten-tts-go**](https://github.com/itamaker/kitten-tts-go) - Go implementation of KittenTTS, a lightweight ONNX text-to-speech engine.
 - 🔐 [**gauth2apple**](https://github.com/itamaker/gauth2apple) - Split a Google Authenticator export QR into individual otpauth:// QR codes for Apple Passwords.
 - 🧩 [**skills**](https://github.com/itamaker/skills) - An index for my standalone agent skills.
 - 🗂️ [**go-workspace-skills**](https://github.com/itamaker/go-workspace-skills) - A standalone skill for configurable Go workspaces.
