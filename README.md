@@ -39,6 +39,7 @@
 
 ## Current Projects
 
+- 📄 [**webpage2pdf**](https://github.com/itamaker/webpage2pdf) - Export web pages as pixel-perfect paginated PDFs via headless Chrome screenshots.
 - 🐱 [**kitten-tts-go**](https://github.com/itamaker/kitten-tts-go) - Go implementation of KittenTTS, a lightweight ONNX text-to-speech engine.
 - 🔐 [**gauth2apple**](https://github.com/itamaker/gauth2apple) - Split a Google Authenticator export QR into individual otpauth:// QR codes for Apple Passwords.
 - 🧩 [**skills**](https://github.com/itamaker/skills) - An index for my standalone agent skills.
