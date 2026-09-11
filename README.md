@@ -39,8 +39,8 @@
 
 ### 🎙️ Speech & Audio
 
-- 🐱 [**kitten-tts-go**](https://github.com/itamaker/kitten-tts-go) - Go implementation of KittenTTS, a lightweight ONNX text-to-speech engine.
-- 🐱 [**kitten-asr-go**](https://github.com/itamaker/kitten-asr-go) - Go implementation of KittenML's ASR models, a lightweight ONNX speech-to-text engine.
+- 🐱🔊 [**kitten-tts-go**](https://github.com/itamaker/kitten-tts-go) - Go implementation of KittenTTS, a lightweight ONNX text-to-speech engine.
+- 🐱🎙️ [**kitten-asr-go**](https://github.com/itamaker/kitten-asr-go) - Go implementation of KittenML's ASR models, a lightweight ONNX speech-to-text engine.
 
 ### 🧠 Agent Skills
 
