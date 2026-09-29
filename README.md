@@ -45,10 +45,10 @@
 ### 🧠 Agent Skills
 
 - 🧩 [**skills**](https://github.com/itamaker/skills) - All my agent skills in one repository, installable as a single Claude Code plugin (`/plugin install itamaker-skills@itamaker`).
+- 🌐 [**remote-browser**](https://github.com/itamaker/skills/tree/main/skills/web/remote-browser) - Give Claude a cloud browser on your own Cloudflare account: read JavaScript-heavy pages and hand you a live session for manual logins.
 - 📄 [**webpage-to-pdf**](https://github.com/itamaker/skills/tree/main/skills/web/webpage-to-pdf) - Export a live webpage as a pixel-perfect, paginated PDF via headless Chrome screenshots.
 - 🗂️ [**go-workspace-skill**](https://github.com/itamaker/skills/tree/main/skills/dev/go-workspace-skill) - Sync, build and test a configurable multi-repo Go workspace from a single config file.
 - ✨ [**stitch**](https://github.com/itamaker/skills/tree/main/skills/web/stitch) - Generate and edit designs with Google Stitch through a bundled SDK runner, and turn the output into app code.
-- 🌐 [**remote-browser**](https://github.com/itamaker/skills/tree/main/skills/web/remote-browser) - Give Claude a cloud browser on your own Cloudflare account: read JavaScript-heavy pages and hand you a live session for manual logins.
 - ⚒️ [**skillforge**](https://github.com/itamaker/skills/tree/main/skills/agent-tooling/skillforge) - Draft and scaffold OpenClaw-ready skills from briefs, tool catalogs and JSON specs.
 - 🔎 [**runlens**](https://github.com/itamaker/skills/tree/main/skills/agent-tooling/runlens) - Analyze agent and tool JSONL traces for failures, flaky tools, latency outliers and token usage.
 - 📚 [**ragcheck**](https://github.com/itamaker/skills/tree/main/skills/agent-tooling/ragcheck) - Evaluate retrieval and RAG runs offline with Precision@k, Recall@k, MAP, nDCG and an answer judge.
