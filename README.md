@@ -44,7 +44,7 @@
 
 ### 🧠 Agent Skills
 
-- 🧩 [**skills**](https://github.com/itamaker/skills) - All my agent skills in one repository, installable as a single Claude Code plugin (`/plugin install itamaker-skills@itamaker`).
+- 🧩 [**skills**](https://github.com/itamaker/skills) - All my agent skills in one repository, installable as a single Claude Code plugin.
 - 🌐 [**remote-browser**](https://github.com/itamaker/skills/tree/main/skills/web/remote-browser) - Give Claude a cloud browser on your own Cloudflare account: read JavaScript-heavy pages and hand you a live session for manual logins.
 - 📄 [**webpage-to-pdf**](https://github.com/itamaker/skills/tree/main/skills/web/webpage-to-pdf) - Export a live webpage as a pixel-perfect, paginated PDF via headless Chrome screenshots.
 - 🗂️ [**go-workspace-skill**](https://github.com/itamaker/skills/tree/main/skills/dev/go-workspace-skill) - Sync, build and test a configurable multi-repo Go workspace from a single config file.
