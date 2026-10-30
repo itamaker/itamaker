@@ -44,15 +44,14 @@
 
 ### 🧠 Agent Skills
 
-- 🧩 [**skills**](https://github.com/itamaker/skills) - All my agent skills in one repository, installable as a single Claude Code plugin.
-- 🌐 [**remote-browser**](https://github.com/itamaker/skills/tree/main/skills/web/remote-browser) - Cloud browser on your own Cloudflare account, for JavaScript pages and manual logins.
-- 📄 [**webpage-to-pdf**](https://github.com/itamaker/skills/tree/main/skills/web/webpage-to-pdf) - Export a live webpage as a pixel-perfect, paginated PDF via headless Chrome screenshots.
-- 🗂️ [**go-workspace-skill**](https://github.com/itamaker/skills/tree/main/skills/dev/go-workspace-skill) - Sync, build and test a configurable multi-repo Go workspace from a single config file.
-- ✨ [**stitch**](https://github.com/itamaker/skills/tree/main/skills/web/stitch) - Generate and edit designs with Google Stitch through a bundled SDK runner, and turn the output into app code.
-- ⚒️ [**skillforge**](https://github.com/itamaker/skills/tree/main/skills/agent-tooling/skillforge) - Draft and scaffold OpenClaw-ready skills from briefs, tool catalogs and JSON specs.
-- 🔎 [**runlens**](https://github.com/itamaker/skills/tree/main/skills/agent-tooling/runlens) - Analyze agent and tool JSONL traces for failures, flaky tools, latency outliers and token usage.
-- 📚 [**ragcheck**](https://github.com/itamaker/skills/tree/main/skills/agent-tooling/ragcheck) - Evaluate retrieval and RAG runs offline with Precision@k, Recall@k, MAP, nDCG and an answer judge.
-- 🃏 [**promptdeck**](https://github.com/itamaker/skills/tree/main/skills/agent-tooling/promptdeck) - Render, batch and rank prompt variants from templates, JSON variables and experiment matrices.
+- 🧩 [**skills**](https://github.com/itamaker/skills) - All my agent skills, installable as one Claude Code plugin.
+- 🌐 [**remote-browser**](https://github.com/itamaker/skills/tree/main/skills/web/remote-browser) - Cloud browser on your Cloudflare account for JavaScript pages and manual logins.
+- 📄 [**webpage-to-pdf**](https://github.com/itamaker/skills/tree/main/skills/web/webpage-to-pdf) - Save a live webpage as a PDF, pixel-exact or with searchable text.
+- 🗂️ [**go-workspace-skill**](https://github.com/itamaker/skills/tree/main/skills/dev/go-workspace-skill) - Sync, build and test a multi-repo Go workspace from one config file.
+- ✨ [**stitch**](https://github.com/itamaker/skills/tree/main/skills/web/stitch) - Generate and edit Google Stitch designs and turn them into app code.
+- 🔎 [**runlens**](https://github.com/itamaker/skills/tree/main/skills/agent-tooling/runlens) - Find failures, flaky tools and latency outliers in agent JSONL traces.
+- 📚 [**ragcheck**](https://github.com/itamaker/skills/tree/main/skills/agent-tooling/ragcheck) - Score retrieval runs with P/R/MRR/MAP/nDCG@k and check answers by word overlap.
+- 🃏 [**promptdeck**](https://github.com/itamaker/skills/tree/main/skills/agent-tooling/promptdeck) - Render prompt templates, expand variant matrices and rank scored variants.
 - 🧪 [**datasetlint**](https://github.com/itamaker/skills/tree/main/skills/agent-tooling/datasetlint) - Audit JSONL datasets for duplicates, train/eval leakage and label conflicts.
 
 ### 🛠️ Dev Tooling
