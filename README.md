@@ -37,9 +37,9 @@
 
 ## Current Projects
 
-### 🧩 Skills
+### 🧩 [Skills](https://github.com/itamaker/skills)
 
-- 🧩 [**skills**](https://github.com/itamaker/skills) - All my agent skills, installable as one Claude Code plugin.
+Agent skills for Codex and Claude Code.
 
 ### 🧠 Agent Skills
 
