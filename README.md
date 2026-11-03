@@ -37,14 +37,13 @@
 
 ## Current Projects
 
-### 🎙️ Speech & Audio
+### 🧩 Skills
 
-- 🐱🎙️ [**kitten-asr-go**](https://github.com/itamaker/kitten-asr-go) - Go implementation of KittenML's ASR models, a lightweight ONNX speech-to-text engine.
-- 🐱🔊 [**kitten-tts-go**](https://github.com/itamaker/kitten-tts-go) - Go implementation of KittenTTS, a lightweight ONNX text-to-speech engine.
+- 🧩 [**skills**](https://github.com/itamaker/skills) - All my agent skills, installable as one Claude Code plugin.
 
 ### 🧠 Agent Skills
 
-- 🧩 [**skills**](https://github.com/itamaker/skills) - All my agent skills, installable as one Claude Code plugin.
+- 🚢 [**Shipyard**](https://github.com/itamaker/skills/tree/main/skills/dev/shipyard) - Coordinate Codex and Claude with scoped tests, model routing, CI acceptance, and safe branch cleanup.
 - 🌐 [**remote-browser**](https://github.com/itamaker/skills/tree/main/skills/web/remote-browser) - Cloud browser on your Cloudflare account for JavaScript pages and manual logins.
 - 📄 [**webpage-to-pdf**](https://github.com/itamaker/skills/tree/main/skills/web/webpage-to-pdf) - Save a live webpage as a PDF, pixel-exact or with searchable text.
 - 🗂️ [**go-workspace-skill**](https://github.com/itamaker/skills/tree/main/skills/dev/go-workspace-skill) - Sync, build and test a multi-repo Go workspace from one config file.
@@ -62,8 +61,10 @@
 - 🚀 [**go-chrome-ai**](https://github.com/itamaker/go-chrome-ai) - A cross-platform Chrome profile patcher written in Go, with both CLI and GUI modes.
 - ⚙️ [**dotfiles**](https://github.com/itamaker/dotfiles) - A chezmoi-managed personal dotfiles repo for Neovim, Starship, and reproducible local setup.
 
-### 🔬 Research
+### 🎙️ Speech, Audio & Research
 
+- 🐱🎙️ [**kitten-asr-go**](https://github.com/itamaker/kitten-asr-go) - Go implementation of KittenML's ASR models, a lightweight ONNX speech-to-text engine.
+- 🐱🔊 [**kitten-tts-go**](https://github.com/itamaker/kitten-tts-go) - Go implementation of KittenTTS, a lightweight ONNX text-to-speech engine.
 - 🧠 [**delta**](https://github.com/Delta-ML/delta) - A deep learning based end-to-end natural language and speech processing platform.
 - 💬 [**dstc9**](https://github.com/itamaker/dstc9) - DSTC9 dialog-system challenge code, experiments, and related research work.
 
@@ -80,3 +81,4 @@
 ---
 
 > Make it useful. Keep it light. Ship it.
+
