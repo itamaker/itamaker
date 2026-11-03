@@ -39,7 +39,7 @@
 
 ### 🧩 [Skills](https://github.com/itamaker/skills)
 
-Agent skills for Codex and Claude Code.
+All my agent skills for Codex and Claude Code.
 
 ### 🧠 Agent Skills
 
