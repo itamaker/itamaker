@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-04T01:23:05.745425Z",
+  "title": "Design System: Zhaoyang Jia GitHub Profile",
+  "extensions": {
+    "typographyMeta": {
+      "name": {
+        "displayName": "Name / H1",
+        "purpose": "Document identity; inherited host heading."
+      },
+      "section": {
+        "displayName": "Section / H2",
+        "purpose": "Major document sections."
+      },
+      "category": {
+        "displayName": "Category / H3",
+        "purpose": "Peer content categories."
+      },
+      "subsection": {
+        "displayName": "Subsection / H4",
+        "purpose": "Subordinate groups within a collection."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Paragraphs, lists, inline links, and disclosure text."
+      }
+    },
+    "shadows": [],
+    "motion": [],
+    "breakpoints": []
+  },
+  "components": [
+    {
+      "name": "Section Index",
+      "kind": "nav",
+      "refersTo": "section-index",
+      "description": "Native inline section links; wraps with document text.",
+      "html": "<p class=\"ds-document ds-index\"><a href=\"#agent-skills\">Agent Skills</a> · <a href=\"#dev-tooling\">Dev Tooling</a> · <a href=\"#speech-audio--research\">Speech, Audio &amp; Research</a> · <a href=\"#about\">About</a></p>",
+      "css": ".ds-document{font-family:var(--fontStack-sansSerif,-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"Noto Sans\",Helvetica,Arial,sans-serif);font-size:16px;line-height:1.5;color:var(--fgColor-default,CanvasText);overflow-wrap:break-word}.ds-document a{color:var(--fgColor-accent,LinkText);text-decoration:none}.ds-document a:hover{text-decoration:underline}.ds-document a:focus-visible{outline:2px solid var(--focus-outlineColor,Highlight);outline-offset:-2px}.ds-index{margin:0 0 16px}"
+    },
+    {
+      "name": "Project List",
+      "kind": "custom",
+      "refersTo": "project-list",
+      "description": "Linked names and preserved descriptions in a semantic list.",
+      "html": "<ul class=\"ds-document ds-projects\"><li><a href=\"https://github.com/itamaker/skills/tree/main/skills/web/remote-browser\"><strong>remote-browser</strong></a> - Cloud browser on your Cloudflare account for JavaScript pages and manual logins.</li><li><a href=\"https://github.com/itamaker/skills/tree/main/skills/web/webpage-to-pdf\"><strong>webpage-to-pdf</strong></a> - Save a live webpage as a PDF, pixel-exact or with searchable text.</li></ul>",
+      "css": ".ds-document{font-family:var(--fontStack-sansSerif,-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"Noto Sans\",Helvetica,Arial,sans-serif);font-size:16px;line-height:1.5;color:var(--fgColor-default,CanvasText);overflow-wrap:break-word}.ds-document a{color:var(--fgColor-accent,LinkText);text-decoration:none}.ds-document a:hover{text-decoration:underline}.ds-document a:focus-visible{outline:2px solid var(--focus-outlineColor,Highlight);outline-offset:-2px}.ds-projects{margin:0 0 16px;padding-left:2em}.ds-projects li+li{margin-top:.25em}"
+    },
+    {
+      "name": "Native Disclosure",
+      "kind": "custom",
+      "refersTo": "disclosure",
+      "description": "Native closed-by-default control; sample group labels stand in for the existing external badge inventory.",
+      "html": "<details class=\"ds-document ds-disclosure\"><summary>Tools, technologies &amp; affiliations</summary><p><strong>AI &amp; workflow</strong></p><p><strong>Languages &amp; runtimes</strong></p><p><strong>Platforms &amp; frameworks</strong></p><p><strong>Professional affiliations</strong></p><p><strong>Working style</strong></p></details>",
+      "css": ".ds-document{font-family:var(--fontStack-sansSerif,-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"Noto Sans\",Helvetica,Arial,sans-serif);font-size:16px;line-height:1.5;color:var(--fgColor-default,CanvasText);overflow-wrap:break-word}.ds-disclosure{margin:0 0 16px}.ds-disclosure summary{display:list-item;cursor:pointer}.ds-disclosure summary:hover{cursor:pointer}.ds-disclosure summary:focus-visible{outline:auto}.ds-disclosure p{margin:0 0 16px}"
+    },
+    {
+      "name": "Quotation",
+      "kind": "custom",
+      "refersTo": "quotation",
+      "description": "Native muted quotation treatment for the introduction and closing maxim.",
+      "html": "<blockquote class=\"ds-document ds-quote\">Shipping small experiments, learning in public, and keeping software a little playful.</blockquote>",
+      "css": ".ds-document{font-family:var(--fontStack-sansSerif,-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"Noto Sans\",Helvetica,Arial,sans-serif);font-size:16px;line-height:1.5;color:var(--fgColor-default,CanvasText);overflow-wrap:break-word}.ds-quote{margin:0 0 16px;padding:0 1em;color:var(--fgColor-muted,GrayText);border-left:.25em solid var(--borderColor-default,GrayText)}"
+    },
+    {
+      "name": "Category Heading",
+      "kind": "custom",
+      "refersTo": "category-heading",
+      "description": "A native H3 marks peer project categories.",
+      "html": "<h3 class=\"ds-document ds-category\">Dev Tooling</h3>",
+      "css": ".ds-document{font-family:var(--fontStack-sansSerif,-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"Noto Sans\",Helvetica,Arial,sans-serif);font-size:16px;line-height:1.5;color:var(--fgColor-default,CanvasText);overflow-wrap:break-word}.ds-category{font-size:1.25em;font-weight:600;line-height:1.25;margin:24px 0 16px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Native GitHub Markdown",
+    "overview": "The profile uses GitHub's familiar document language: clear headings, ordinary links, semantic lists, and a native disclosure. Its personality comes from Zhaoyang's English voice, playful shipping theme, and existing content.\n\nGitHub controls presentation in production. The frontmatter records inherited type and spacing observed in the reviewed build; it does not install CSS or override host defaults. Fonts, themes, focus treatments, and available width remain governed by GitHub.",
+    "keyCharacteristics": [
+      "Semantic hierarchy and one-column reading.",
+      "Native links and keyboard-operable disclosure.",
+      "Inherited light/dark presentation; existing external imagery."
+    ],
+    "rules": [
+      {
+        "name": "The Host Authority Rule",
+        "body": "Inherit GitHub's presentation rather than treating a preview fixture as authored production styling.",
+        "section": "overview"
+      },
+      {
+        "name": "The Semantic Hierarchy Rule",
+        "body": "Choose heading levels by document relationship; do not simulate headings with bold paragraphs.",
+        "section": "typography"
+      },
+      {
+        "name": "The Native Interaction Rule",
+        "body": "Use ordinary anchors and details/summary so navigation and disclosure retain platform behavior.",
+        "section": "components"
+      }
+    ],
+    "dos": [
+      "Do preserve the semantic heading tree and readable linked project lists.",
+      "Do let prose, section links, and inline badge groups wrap naturally.",
+      "Do retain meaningful image alt text and existing public image destinations.",
+      "Do check expanded and collapsed disclosure states in light and dark themes."
+    ],
+    "donts": [
+      "Don't prescribe a custom palette, font download, fixed document width, or authored animation for this GitHub-rendered surface.",
+      "Don't replace native links or disclosure with image-only controls.",
+      "Don't turn external badge colors into a profile-wide palette."
+    ]
+  }
+}

@@ -1,82 +1,80 @@
-# Hi, I'm Zhaoyang 👋
+# Hi, I'm Zhaoyang Jia 👋
 
-![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
-![🦞OpenClaw](https://img.shields.io/badge/-🦞OpenClaw-7A3CF0?style=flat-square)
-![IEEE Senior Member](https://img.shields.io/badge/-IEEE%20Senior%20Member-00629B?style=flat-square&logo=ieee&logoColor=white)
-![Sigma Xi Full Member](https://img.shields.io/badge/-Sigma%20Xi%20Full%20Member-1F4B99?style=flat-square)
-![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
-![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
-![Builder](https://img.shields.io/badge/-Builder-111111?style=flat-square)
-![Maker](https://img.shields.io/badge/-Maker-8B0000?style=flat-square)
-![Shipping](https://img.shields.io/badge/-Shipping-0A66C2?style=flat-square)
-![Tools](https://img.shields.io/badge/-Tools-2E8B57?style=flat-square)
-![Curiosity](https://img.shields.io/badge/-Curiosity-6A5ACD?style=flat-square)
-![Open Source](https://img.shields.io/badge/-Open%20Source-181717?style=flat-square&logo=github&logoColor=white)
+> I build practical AI systems and developer tools, ship small experiments, learn in public, and keep software a little playful.
 
-> Shipping small experiments, learning in public, and keeping software a little playful.
-
-## What I'm Doing
-
-- Building practical AI systems and developer tools.
-- Turning day-to-day automation patterns into installable agent skills.
-- Exploring better workflows across Golang, Python, and LLM applications.
-- Shipping infrastructure-friendly products with Docker and Kubernetes.
-
-## Current Projects
+## Projects
 
 ### 🧩 [Skills](https://github.com/itamaker/skills)
 
 All my agent skills for Codex and Claude Code.
 
-### 🧠 Agent Skills
+#### Agent Skills
 
-- 🚢 [**Shipyard**](https://github.com/itamaker/skills/tree/main/skills/dev/shipyard) - Coordinate Codex and Claude with scoped tests, model routing, CI acceptance, and safe branch cleanup.
-- 🌐 [**remote-browser**](https://github.com/itamaker/skills/tree/main/skills/web/remote-browser) - Cloud browser on your Cloudflare account for JavaScript pages and manual logins.
-- 📄 [**webpage-to-pdf**](https://github.com/itamaker/skills/tree/main/skills/web/webpage-to-pdf) - Save a live webpage as a PDF, pixel-exact or with searchable text.
-- 🗂️ [**go-workspace-skill**](https://github.com/itamaker/skills/tree/main/skills/dev/go-workspace-skill) - Sync, build and test a multi-repo Go workspace from one config file.
-- ✨ [**stitch**](https://github.com/itamaker/skills/tree/main/skills/web/stitch) - Generate and edit Google Stitch designs and turn them into app code.
-- 🔎 [**runlens**](https://github.com/itamaker/skills/tree/main/skills/agent-tooling/runlens) - Find failures, flaky tools and latency outliers in agent JSONL traces.
-- 📚 [**ragcheck**](https://github.com/itamaker/skills/tree/main/skills/agent-tooling/ragcheck) - Score retrieval runs with P/R/MRR/MAP/nDCG@k and check answers by word overlap.
-- 🃏 [**promptdeck**](https://github.com/itamaker/skills/tree/main/skills/agent-tooling/promptdeck) - Render prompt templates, expand variant matrices and rank scored variants.
-- 🧪 [**datasetlint**](https://github.com/itamaker/skills/tree/main/skills/agent-tooling/datasetlint) - Audit JSONL datasets for duplicates, train/eval leakage and label conflicts.
+- [**Shipyard**](https://github.com/itamaker/skills/tree/main/skills/dev/shipyard) - Coordinate Codex and Claude with scoped tests, model routing, CI acceptance, and safe branch cleanup.
+- [**remote-browser**](https://github.com/itamaker/skills/tree/main/skills/web/remote-browser) - Run a cloud browser on your Cloudflare account for JavaScript pages and manual logins.
+- [**webpage-to-pdf**](https://github.com/itamaker/skills/tree/main/skills/web/webpage-to-pdf) - Save a live webpage as a PDF, pixel-exact or with searchable text.
+- [**go-workspace-skill**](https://github.com/itamaker/skills/tree/main/skills/dev/go-workspace-skill) - Sync, build, and test a multi-repo Go workspace from one config file.
+- [**stitch**](https://github.com/itamaker/skills/tree/main/skills/web/stitch) - Generate and edit Google Stitch designs and turn them into app code.
+- [**runlens**](https://github.com/itamaker/skills/tree/main/skills/agent-tooling/runlens) - Find failures, flaky tools, and latency outliers in agent JSONL traces.
+- [**ragcheck**](https://github.com/itamaker/skills/tree/main/skills/agent-tooling/ragcheck) - Score retrieval runs with precision, recall, MRR, MAP, and nDCG@k, and check answers by word overlap.
+- [**promptdeck**](https://github.com/itamaker/skills/tree/main/skills/agent-tooling/promptdeck) - Render prompt templates, expand variant matrices, and rank scored variants.
+- [**datasetlint**](https://github.com/itamaker/skills/tree/main/skills/agent-tooling/datasetlint) - Audit JSONL datasets for duplicates, train/eval leakage, and label conflicts.
 
 ### 🛠️ Dev Tooling
 
-- 🔐 [**gauth2apple**](https://github.com/itamaker/gauth2apple) - Split a Google Authenticator export QR into individual otpauth:// QR codes for Apple Passwords.
-- 💻 [**workspace**](https://github.com/itamaker/workspace) - A Makefile-driven workspace for syncing and managing the my project repos.
-- 🍺 [**homebrew-tap**](https://github.com/itamaker/homebrew-tap) - A Homebrew tap for casks maintained and shipped under the my namespace.
-- 🚀 [**go-chrome-ai**](https://github.com/itamaker/go-chrome-ai) - A cross-platform Chrome profile patcher written in Go, with both CLI and GUI modes.
-- ⚙️ [**dotfiles**](https://github.com/itamaker/dotfiles) - A chezmoi-managed personal dotfiles repo for Neovim, Starship, and reproducible local setup.
+- [**gauth2apple**](https://github.com/itamaker/gauth2apple) - A tool that splits a Google Authenticator export QR code into individual otpauth:// QR codes for Apple Passwords.
+- [**workspace**](https://github.com/itamaker/workspace) - A Makefile-driven workspace for syncing and managing my project repos.
+- [**homebrew-tap**](https://github.com/itamaker/homebrew-tap) - A Homebrew tap for casks maintained and shipped under my namespace.
+- [**go-chrome-ai**](https://github.com/itamaker/go-chrome-ai) - A cross-platform Chrome profile patcher written in Go, with CLI and GUI modes, that enables Chrome AI features such as Ask Gemini and can block silent Gemini Nano downloads.
+- [**dotfiles**](https://github.com/itamaker/dotfiles) - A chezmoi-managed personal dotfiles repo for Neovim, Starship, and reproducible local setup.
 
 ### 🎙️ Speech, Audio & Research
 
-- 🐱🎙️ [**kitten-asr-go**](https://github.com/itamaker/kitten-asr-go) - Go implementation of KittenML's ASR models, a lightweight ONNX speech-to-text engine.
-- 🐱🔊 [**kitten-tts-go**](https://github.com/itamaker/kitten-tts-go) - Go implementation of KittenTTS, a lightweight ONNX text-to-speech engine.
-- 🧠 [**delta**](https://github.com/Delta-ML/delta) - A deep learning based end-to-end natural language and speech processing platform.
-- 💬 [**dstc9**](https://github.com/itamaker/dstc9) - DSTC9 dialog-system challenge code, experiments, and related research work.
+- [**kitten-asr-go**](https://github.com/itamaker/kitten-asr-go) - A Go implementation of KittenML's lightweight ONNX ASR models for speech-to-text.
+- [**kitten-tts-go**](https://github.com/itamaker/kitten-tts-go) - A Go implementation of KittenTTS, a lightweight ONNX text-to-speech engine.
+- [**delta**](https://github.com/Delta-ML/delta) - An end-to-end, TensorFlow-based deep learning platform for training and deploying natural language and speech models.
+- [**dstc9**](https://github.com/itamaker/dstc9) - DSTC9 dialog-system challenge code, experiments, and related research work.
+
+## About
+
+### What I'm Doing
+
+- Turning day-to-day automation patterns into installable agent skills.
+- Exploring workflows across Go, Python, and LLM applications.
+- Shipping products that run on Docker and Kubernetes.
+
+<details open>
+<summary>Tech stack & affiliations</summary>
+
+<br>
+
+**AI & workflow**
+
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BT3BlbkFJPC90aXRsZT48cGF0aCBkPSJNMjIuMjgxOSA5LjgyMTFhNS45ODQ3IDUuOTg0NyAwIDAgMC0uNTE1Ny00LjkxMDggNi4wNDYyIDYuMDQ2MiAwIDAgMC02LjUwOTgtMi45QTYuMDY1MSA2LjA2NTEgMCAwIDAgNC45ODA3IDQuMTgxOGE1Ljk4NDcgNS45ODQ3IDAgMCAwLTMuOTk3NyAyLjkgNi4wNDYyIDYuMDQ2MiAwIDAgMCAuNzQyNyA3LjA5NjYgNS45OCA1Ljk4IDAgMCAwIC41MTEgNC45MTA3IDYuMDUxIDYuMDUxIDAgMCAwIDYuNTE0NiAyLjkwMDFBNS45ODQ3IDUuOTg0NyAwIDAgMCAxMy4yNTk5IDI0YTYuMDU1NyA2LjA1NTcgMCAwIDAgNS43NzE4LTQuMjA1OCA1Ljk4OTQgNS45ODk0IDAgMCAwIDMuOTk3Ny0yLjkwMDEgNi4wNTU3IDYuMDU1NyAwIDAgMC0uNzQ3NS03LjA3Mjl6bS05LjAyMiAxMi42MDgxYTQuNDc1NSA0LjQ3NTUgMCAwIDEtMi44NzY0LTEuMDQwOGwuMTQxOS0uMDgwNCA0Ljc3ODMtMi43NTgyYS43OTQ4Ljc5NDggMCAwIDAgLjM5MjctLjY4MTN2LTYuNzM2OWwyLjAyIDEuMTY4NmEuMDcxLjA3MSAwIDAgMSAuMDM4LjA1MnY1LjU4MjZhNC41MDQgNC41MDQgMCAwIDEtNC40OTQ1IDQuNDk0NHptLTkuNjYwNy00LjEyNTRhNC40NzA4IDQuNDcwOCAwIDAgMS0uNTM0Ni0zLjAxMzdsLjE0Mi4wODUyIDQuNzgzIDIuNzU4MmEuNzcxMi43NzEyIDAgMCAwIC43ODA2IDBsNS44NDI4LTMuMzY4NXYyLjMzMjRhLjA4MDQuMDgwNCAwIDAgMS0uMDMzMi4wNjE1TDkuNzQgMTkuOTUwMmE0LjQ5OTIgNC40OTkyIDAgMCAxLTYuMTQwOC0xLjY0NjR6TTIuMzQwOCA3Ljg5NTZhNC40ODUgNC40ODUgMCAwIDEgMi4zNjU1LTEuOTcyOFYxMS42YS43NjY0Ljc2NjQgMCAwIDAgLjM4NzkuNjc2NWw1LjgxNDQgMy4zNTQzLTIuMDIwMSAxLjE2ODVhLjA3NTcuMDc1NyAwIDAgMS0uMDcxIDBsLTQuODMwMy0yLjc4NjVBNC41MDQgNC41MDQgMCAwIDEgMi4zNDA4IDcuODcyem0xNi41OTYzIDMuODU1OEwxMy4xMDM4IDguMzY0IDE1LjExOTIgNy4yYS4wNzU3LjA3NTcgMCAwIDEgLjA3MSAwbDQuODMwMyAyLjc5MTNhNC40OTQ0IDQuNDk0NCAwIDAgMS0uNjc2NSA4LjEwNDJ2LTUuNjc3MmEuNzkuNzkgMCAwIDAtLjQwNy0uNjY3em0yLjAxMDctMy4wMjMxbC0uMTQyLS4wODUyLTQuNzczNS0yLjc4MThhLjc3NTkuNzc1OSAwIDAgMC0uNzg1NCAwTDkuNDA5IDkuMjI5N1Y2Ljg5NzRhLjA2NjIuMDY2MiAwIDAgMSAuMDI4NC0uMDYxNWw0LjgzMDMtMi43ODY2YTQuNDk5MiA0LjQ5OTIgMCAwIDEgNi42ODAyIDQuNjZ6TTguMzA2NSAxMi44NjNsLTIuMDItMS4xNjM4YS4wODA0LjA4MDQgMCAwIDEtLjAzOC0uMDU2N1Y2LjA3NDJhNC40OTkyIDQuNDk5MiAwIDAgMSA3LjM3NTctMy40NTM3bC0uMTQyLjA4MDVMOC43MDQgNS40NTlhLjc5NDguNzk0OCAwIDAgMC0uMzkyNy42ODEzem0xLjA5NzYtMi4zNjU0bDIuNjAyLTEuNDk5OCAyLjYwNjkgMS40OTk4djIuOTk5NGwtMi41OTc0IDEuNDk5Ny0yLjYwNjctMS40OTk3WiIvPjwvc3ZnPg%3D%3D) ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=claude&logoColor=white) ![CLI tools](https://img.shields.io/badge/-CLI%20tools-000000?style=flat-square&logo=gnu-bash&logoColor=white) ![Hermes Agent](https://img.shields.io/badge/-Hermes%20Agent-111111?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAJ2ElEQVR42nWXe0xUZxrGf%2BfCDMhlRlQUwkUuK0gQWyEVL5UukEqttNtorOk22aZ%2FNJvqtmqatGGpTbvWjRrbNG7jpummjU0LMWKr3RbxCoUWbysiKBplUMAZQAYVGJgzc8759o86p0zFLznJyTnf937P9z7P%2B5z3SFu3bv1fSUnJItM0dUmSJH43hBCYpoksy8iyDEAwGETTNIQQREREEBU1jejoaAxDZ2JiAl3XkWWZKcKFYgpZltXjx49fUBcuXCgXFxcDKMDUKx4M0zQZHx%2Bnt7ePY8eOUldXx507d0hPn8uCBfk89dRTrFix4pEbT8YAMDg4KKuBQADTNDEMwzqhEAIAVVXx%2BXz8%2BOOPHDt2nP5%2BD3FxcRQWFrJ69WoWLy7i%2Ffff58CBWg4cqAVgyZIlbNmyhbVr12KaphXr9wdRFAVN06CmpqZVCCF0XTdN0xSGYYjQqK%2BvF08VF4sHiMOugoIC0dLSIoQQ4p133hGAkGVZAEJRFPH2228LTdNEKKZpmtal67ophBBff%2F11axiA0OY%2Bn09UVlYKm80mACFJkoiIiBCqqgpVVa2NYmNjRH19vRBCiPXr1wvAmgOIf27fLh7EfiQAebLYZFlmeHiYN998g%2B3bt2MaBvHx8ZbwdF1HkiRmz55NeXk5n3%2F%2BH7777jtu3LjBrl27SEpKQtd1AJ5%2B%2BmkcTiednZ0oijIlFQBq6EaSJHRd58CBA7S0tOBwOsjPz%2BfG9RtkZ88jNTWNzs5OAsEgVVVV5OXlkZiYyL59%2B2hv7%2BCFF%2F7EG2%2F8ja4uF6OjY2zY8DoxMTF8%2BOGHfPrppzgcDkzTfEigFgBFUejt7aW0tJScnBxqaw%2Fyx5I%2Fovn9jIyMkJubi9vtJi4ujpUrV%2FLll1%2Bybt06NE1D13XKy1fy4ovreffddwFBVVUVSUlJnDhxgsbGRp577jmEEI8G4Pf7qa2tRZZlkpOTmZgY599796IoCl6vF4%2FHg6qqJCcns2%2FfPvp6exkYGACgvr6exsZGMjMzOXv2LH19fWiaRlpaGn6%2Fn2%2B%2F%2FZaKigqrysIAmKYJQE9PD1988QUulwvDMJiYmAibmJKSgsvlwuVyWc9kWbZO9cknn2CaJjZbBEIIEhMT8Xg82Gw2Tp06RXd3NxkZGRiGEQ4gJI6rV69agvH7%2FVbwkKOlpqZhGAaDg4PIsoxhGAghLHFdvnwZ0zSIiYlFkiRkSUIIgaZp9PX1cebMGTIyMh6iwcrJ0JCXYDBIIBCwNk1ISMAwDHRd586dARYsyEfXdQKBAIZhEMrer%2BuHGBi4Q7fLhd%2FvRzcMYmNjrbnnz5%2B3xD6lBpxOR9hLwzDIzMzk%2Beef5%2BeffyYyMpJnVz%2BLwxGH1%2BvF6XRy%2Ffp1Ll%2B%2BPCVl4%2BPjOBwOhoaGALh0qZ1gUEdVlXAavvnmm1YhhOjp6TEzMjIsR6uoqBANDY1CCCFu374ttm3bJpYtXy42bd4krl69JoLBoHC5XCIrK8syqzlzEkVWVpZQVVUoiiLmzZtnmVlGRobo7e0VQggRCAR%2BM6KQMlNSUtixYydFRUXk5OQgSRKnT7cwOjpGUlISzzyzioH%2Bflp%2BaeFUwylMIUhKSiI6Otoq45ycbAoLC4mPj7comjZtGgC3b9%2Bmq6sr7FsTRoFpmqxdu4aiosWcPn2aDz74gJkzZ2IYOqZpkpOTzccff4zNZmPx4iJsEREMDQ3h8%2Fms9Q0NDWE03Lt3D4fDwb1799A0jba2NoqLi8OoVidbsa7rJCcnk5KSwvTp09m6dStOpxPDMImMjGT16tVhJxgeHsbr9VrPQoFD70dGRpg%2BfTqK8ivv586ds8r3oSoIKdQ0TXp7e8nOzmbGjJn4fD4k6bd3oU83wM2bN7l%2F%2Fz6T3VRRFAtIIBAgEAhYNLS1tTE6OoqiKFMDCNW91%2BvFbrczMnIfm81mIZYkKSx9nZ2dlr%2BHOqdQD6AoCqqqomkaNpsNgBs3bnDlypUwmuSpvlAej4f2jg6am5vZs2cPFy9eDAMZAhEKpigKdrvdAgA8aNWi8Pv9CCGIjIxkYmKCpqbmqQFMTsvdu3c5f%2B4cY2NjLFm6lPj4eCtwKEuGYViqTkpKYvny5WFGI0kSERERBAIB%2FH4%2FCQkJZGRkcOrUyTAfsMowZLGhe5%2FPx8mTJ1lSVERqamqY7YYE2N%2FfD0BFRYUFIBQjIiKCYDBo9RGmafLkk0%2FS1dWF2%2B22zE6Ojo6mvb2DS5cuATA6Okp3dzeSJFFbW8v33%2F%2FX6g9DFi1JEl6v16oAt9tNXV2dJdSQEMfGxizRaprG448%2FztjYGJfa2wkGgyiKimq3R3L%2B%2FDnu379PWVkZ169fp7OzEyEEfr%2BfjRs30NDQgBAmXV1dyLLMnj3%2FIioqyup%2BEhMTKSsr48KFC%2Bi6jqIoTExMWFkzTZPo6GhmzJjByMgIPbducebMGYLBAKquB5FlmV27dqFpAQ4fPsT4%2BDi5ublcuXKFnp4ePvpod5hwbDYbGzZuxO%2F3oygKS5cuo7%2FfYwEKBoMWXSFNzJ07l%2B7ubkZHR7HZ7LRevMjoyAhqMGgwe%2FZsZs2aRVXV30lISGDTpk388MMPxMTEPEhfABBWivfv34%2BmaRQUFNDY2Mgrr%2FzF6hcne8pkU7Lb7VRXVyNJEna7nYsXW5k5cxaqaepkZ%2BeTnp5OQUEB%2Bfn5HD58mM7OToqLi2lpacE0DStoVFQUubm5vPznl8n6Qxavvfaa5XBTNZ6hsm1ubsbn8zF%2F%2Fnxu3brJwMAATzzxBPL4%2BDjp6XPZvHkLw8PDbNv2D9rb29mwYQOqqhIIBH5tMB40KOnp6ezYsYNfWn7B7fZQV3eEwsJCVFUlLW0ucXFxOJ3TmZueTl5eHunp6QD4fD4UVWXRokUcPHiQVatWMWvWLKSamprWdevWPSZJkgCknTt30tPTw9jYKNXVNSQkJNDX1xfmgu%2B99x6PPbYQj6efkZERDMMgKiqKo0ePUlJSwsqVK4mJieXu3bucPXuGQ4cOcfLECWIdDlJSUigsKBCfffaZVF1dfVFZs2bNX%2FPy8uZomoaiKFJmZiZHjhyhvb2dzZu3cOvWTatuQ6q%2Bdu0a0dEx3L13j7LSUpYtXcZXX31FeXk5GzduJCEhAafTSWLiHFLT0hgcHKSr20X0tGg2vP46lZWVyLIstbW19VNbW9v64E%2FMFL8bNTU1QlEU648nNjZWzJ8%2FX7z00kuiqalJeDwe0dvXJyorK8XevXvFo4bb7RavvvqqaGpqEpP32r9%2Ff6va0dFBYmIiwWDQsli73Y7b7eatt97CMAwkSWLFihUoioLH46GsrAyn08nu3buJiorCOzxMaWkpzc3NDzWdQghUVaWkpITx8XF%2B%2BuknhBDYbDY6Ojr4P3l12F4Hxt3SAAAAAElFTkSuQmCC) ![OpenClaw](https://img.shields.io/badge/-OpenClaw-1A1A1A?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAiIGhlaWdodD0iMTIwIiB2aWV3Qm94PSIwIDAgMTIwIDEyMCIgZmlsbD0ibm9uZSIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsbGVkYnk9InRpdGxlIGRlc2MiPjx0aXRsZSBpZD0idGl0bGUiPk9wZW5DbGF3IOKAlCBtYXNjb3RlIHZldG9yaWFsPC90aXRsZT48ZGVzYyBpZD0iZGVzYyI%2BRmF2aWNvbiBvcmlnaW5hbCBjb20gb2xob3MgZXNjdXJvcyBlIG9zIGRvaXMgcmVmbGV4b3MgZW0gY2luemEgY2xhcm8gc3VhdmUsIG5vIGx1Z2FyIGRvIHZlcmRlLjwvZGVzYz4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ibG9ic3Rlci1ncmFkaWVudCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI%2BCiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNmZjRkNGQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjOTkxYjFiIi8%2BCiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICAKICA8cGF0aCBkPSJNNjAgMTAgQzMwIDEwIDE1IDM1IDE1IDU1IEMxNSA3NSAzMCA5NSA0NSAxMDAgTDQ1IDExMCBMNTUgMTEwIEw1NSAxMDAgQzU1IDEwMCA2MCAxMDIgNjUgMTAwIEw2NSAxMTAgTDc1IDExMCBMNzUgMTAwIEM5MCA5NSAxMDUgNzUgMTA1IDU1IEMxMDUgMzUgOTAgMTAgNjAgMTBaIiBmaWxsPSJ1cmwoI2xvYnN0ZXItZ3JhZGllbnQpIi8%2BCiAgCiAgPHBhdGggZD0iTTIwIDQ1IEM1IDQwIDAgNTAgNSA2MCBDMTAgNzAgMjAgNjUgMjUgNTUgQzI4IDQ4IDI1IDQ1IDIwIDQ1WiIgZmlsbD0idXJsKCNsb2JzdGVyLWdyYWRpZW50KSIvPgogIAogIDxwYXRoIGQ9Ik0xMDAgNDUgQzExNSA0MCAxMjAgNTAgMTE1IDYwIEMxMTAgNzAgMTAwIDY1IDk1IDU1IEM5MiA0OCA5NSA0NSAxMDAgNDVaIiBmaWxsPSJ1cmwoI2xvYnN0ZXItZ3JhZGllbnQpIi8%2BCiAgCiAgPHBhdGggZD0iTTQ1IDE1IFEzNSA1IDMwIDgiIHN0cm9rZT0iI2ZmNGQ0ZCIgc3Ryb2tlLXdpZHRoPSIzIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KICA8cGF0aCBkPSJNNzUgMTUgUTg1IDUgOTAgOCIgc3Ryb2tlPSIjZmY0ZDRkIiBzdHJva2Utd2lkdGg9IjMiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIAogIDxjaXJjbGUgY3g9IjQ1IiBjeT0iMzUiIHI9IjYiIGZpbGw9IiMxODFBMUYiLz4KICA8Y2lyY2xlIGN4PSI3NSIgY3k9IjM1IiByPSI2IiBmaWxsPSIjMTgxQTFGIi8%2BCiAgPGNpcmNsZSBjeD0iNDYiIGN5PSIzNCIgcj0iMi41IiBmaWxsPSIjRERFMkU5IiBvcGFjaXR5PSIwLjgyIi8%2BCiAgPGNpcmNsZSBjeD0iNzYiIGN5PSIzNCIgcj0iMi41IiBmaWxsPSIjRERFMkU5IiBvcGFjaXR5PSIwLjgyIi8%2BCjwvc3ZnPg%3D%3D) ![Open Source](https://img.shields.io/badge/-Open%20Source-181717?style=flat-square&logo=github&logoColor=white)
+
+**Languages & runtimes**
+
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+**Platforms & frameworks**
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white) ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white) ![Web apps](https://img.shields.io/badge/-Web%20apps-4285F4?style=flat-square&logo=html5&logoColor=white)
+
+**Professional affiliations**
+
+![IEEE Senior Member](https://img.shields.io/badge/-IEEE%20Senior%20Member-00629B?style=flat-square&logo=ieee&logoColor=white) ![IEEE Computer Society Senior Member](https://img.shields.io/badge/-IEEE%20Computer%20Society%20Senior%20Member-0F4C81?style=flat-square&logo=ieee&logoColor=white) ![Sigma Xi Full Member](https://img.shields.io/badge/-Sigma%20Xi%20Full%20Member-1F4B99?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM%2FrhtAAAEoklEQVR42u2YW4gWZRzGf%2F%2F5vj24ecrWrc%2ByVbKwoJAIOkCHmwiiEsJCDBIpoou6iC6y7iMQgi7DDiTddFEUQXSEIsLshBShdF5t29XVWLd1093v8HThMzFMrjs6o3jRwPB9vPO%2B%2F%2Fd5%2F4fn%2F8wEJS5JERGStBq4D1jtR7uAbRHxazrnVPeIEuCSiOhIWgk8CfwJbAdqwI1AH%2FB0RAynczmTl6TwvUnS85KWZZ4NSnpR0sZ03qnuk5QJLdADrAJ2RsSIpC5JdWAY%2BB64GOh2GsRpBTjLBi1gHFgqqSsimhHRAnqBBvAX0AbI52FRwPXCyZrZwB5JIqIlaQfwCLBBUj9w2KAuAd7ynP%2FkYNHCiYLe6wWWAn%2B4MLLruoB1wB32aAI0gfeAN%2F2f3OG6gSXA%2FjIV%2Fm8YJF0m6QlJPbnxyMy9WdLLkp6VtGYOeyskPSapb65wFw3xeektaQyoSeqkdOOQ7jLFTAE%2FS%2BqyN7OhTSS1gcuBc4Cjc4W7KMCFwAXAw8CI18k3BtjncJ4LPABMG6By6RTAGld%2BZy4iLwrwfBtuAIMeq3l9urEMqhu43uPKPZ%2FxYerA%2FiqruN9z03DizvGTvZYYSBaMMiA7Bn6luXMGGCsFMNNna86XaWCPwQwAvwBbI6JdsOCWu1cfNU%2BOVeXBBrAI2Ap8Z4B3A52IaJsyBhzypjcn47lhH6IB7APeBTaYxCsB2OVQ7gbuAj40iDScTbe7dR4b9ZqawzkpaciFMQoc8pqpSog6o1ouBTYBW4DFwKPA9oh4w%2FOu9fPPgde9vA%2B42ikSwFfAcuAWYEtENCtrdfZGP%2FCgTy%2FgHpP3axHxhaRDwEbgceCAQU1lCuZW4Apgd0Q0i2jFkwG4EFjgSuwGjlgo3A40JL0UET9I2grcby%2B1HWoyfFkDPspEsDTA1MCAN5hxRXe8vu0Q9rorDFlArPLcJGOn6UOOF%2FVKvSBFJBYLM1YrNefhNPA28E5EHJU0H1gPXAdMmFLa9lQ9w4ETlcitDBf22oOvAjuBh7zxKxHxbSoogHvtpaeASWCFPdYysfc4R%2F%2B23co6SY%2B58Dfgzsz7xkF77TZTUBfwJbDWHm6YVgY9%2FontTUpa67HRExVLUYCL7IUpYCXwqcHVDfYwsM1z5jsFRqwHf7d4mPABnzMb3AR8U5UHlxjIegPY7YJouWW9P0eq1Fz9defgDQ75%2FqoA9jtk19iLV5m4UzmV5Ig%2F5b2206MBXAhc5OfzgD1FuPBkPJhK%2BXnupclx6KiVqVhyiqaVaY1UKRawWK0De03SygnRlBMX22sH%2FJsVrEmOMw%2BUBpiRWwuc8B%2FbeCfXz9sGt9kbv%2BBOU8sdpAksc88eLwUw93I%2BA%2ByIiIMnmD9gEN2AImLfLPMOWXYVkltF1ExYgYy5c0QubB0XwWaHr2Zh%2B4wPRq7fJrY3GhHTpXPQXtx7nN6MjrlZkpa4eNJcXHBs6XFfitrAUKWfPmbrm5mX%2BB%2BBrw2uCXwWEUdmo5CT%2BU5TCOBcmi0iZlxEiVXzB2Xslf66NctVy9isV2W0SoCa5f9ZA%2FC0XP8DPJsARpmP8mcCYMv990hGuZS%2B%2FgGTCjs6my22vQAAAABJRU5ErkJggg%3D%3D)
+
+</details>
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/itamaker)
+![Contribution graph for itamaker](https://ghchart.rshah.org/itamaker)
 
 ## Connect
 
-[![GitHub](https://img.shields.io/badge/-itamaker-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/itamaker)
-[![LinkedIn](https://img.shields.io/badge/-Zhaoyang%20Jia-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhaoyang-jia/)
-[![ORCID](https://img.shields.io/badge/-0009--0007--6991--2074-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-6991-2074)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/itamaker)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/zhaoyang-jia/)
+[![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-6991-2074)
 
 ---
 
