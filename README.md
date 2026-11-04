@@ -8,9 +8,8 @@
 
 All my agent skills for Codex and Claude Code.
 
-#### Agent Skills
-
 - [**Shipyard**](https://github.com/itamaker/skills/tree/main/skills/dev/shipyard) - Coordinate Codex and Claude with scoped tests, model routing, CI acceptance, and safe branch cleanup.
+- [**bp**](https://github.com/itamaker/skills/tree/main/skills/dev/bp) - Open apps, sites and files on macOS or Linux from saved nicknames, run tasks across apps, and learn new shortcuts as you work.
 - [**remote-browser**](https://github.com/itamaker/skills/tree/main/skills/web/remote-browser) - Run a cloud browser on your Cloudflare account for JavaScript pages and manual logins.
 - [**webpage-to-pdf**](https://github.com/itamaker/skills/tree/main/skills/web/webpage-to-pdf) - Save a live webpage as a PDF, pixel-exact or with searchable text.
 - [**go-workspace-skill**](https://github.com/itamaker/skills/tree/main/skills/dev/go-workspace-skill) - Sync, build, and test a multi-repo Go workspace from one config file.
